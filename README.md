@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @semo3108 (SebastianGaming Owner and admin
-- 👀 I’m interested in IT (programming)
-- 🌱 I’m currently learning IT (programming)
-- 💞️ I’m looking to collaborate on nothing yet :(
-- 📫 How to reach me: sebastianmolerkalas@gmail.com
+Welcome to my account!
+I am an IT proffesional like @FlyTech_Videoes
+Thanks to @Andrew, @FlyTech_Videoes and @Endermanch for letting me study easily!
 
 <!---
 semo3108/semo3108 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
